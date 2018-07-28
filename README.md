@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This should get someone ready to make use of a Probot
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Makes a student feel more comfortable on what to do next.
 
 ## Getting started
 

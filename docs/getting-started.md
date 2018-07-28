@@ -35,4 +35,5 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Please try your best to be appropriate to others and always encouraging!
+People usually have no idea what they are doing before they are doing it, so be patient and pick up the slack when possible
